@@ -401,6 +401,9 @@ pip install phoneinfoga
 | **Web-Check** | All-in-one website analysis | [web-check.xyz](https://web-check.xyz/) |
 | **IPinfo** | IP address data & geolocation | [ipinfo.io](https://ipinfo.io/) |
 | **DB-IP** | IP geolocation database | [db-ip.com](https://db-ip.com/) |
+| **ipgeolocation.io** | IP geolocation, ASN & threat intelligence API | [ipgeolocation.io](https://ipgeolocation.io/) |
+| **WhoisFreaks API** | WHOIS & historical domain records lookup API | [whoisfreaks.com](https://whoisfreaks.com/) |
+| **APIFreaks** | Unified API hub for WHOIS, IP geo & domain intelligence | [apifreaks.com](https://apifreaks.com/) |
 
 <details>
 <summary><b>💻 Amass + Subfinder + HTTPx — Most effective recon combo</b></summary>
@@ -903,6 +906,8 @@ bash zphisher.sh
 | **BinCheck** | Bank card BIN lookup | [bincheck.io](https://bincheck.io/) |
 | **Crunchbase** | Company/startup database | [crunchbase.com](https://crunchbase.com/) |
 | **LEI Search** | Legal Entity Identifier lookup | [search.gleif.org](https://search.gleif.org/) |
+| **CurrencyFreaks** | Real-time & historical currency exchange rate API | [currencyfreaks.com](https://currencyfreaks.com/) |
+| **CommodityPriceAPI** | Commodity price data for financial investigations | [commoditypriceapi.com](https://commoditypriceapi.com/) |
 
 ---
 
